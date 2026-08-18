@@ -7,33 +7,34 @@
 
 <p align="center">
   <b>AI / ML & Full-Stack Developer</b> · Kyzylorda, Kazakhstan 🇰🇿<br>
-  <sub>🇬🇧 English | 🇷🇺 Русский ниже</sub>
+  <sub>🇬🇧 English | 🇰🇿 Қазақша төменде</sub>
 </p>
 
 <p align="center">
   <a href="https://hubtech.kz/"><img src="https://img.shields.io/badge/Website-hubtech.kz-000000?style=for-the-badge&logo=safari&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/gubaidulla-orynbekov-402976378"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://instagram.com/godz1lllaz"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
 
 ---
 
 ## 🇬🇧 English
 
-I build **AI-driven govtech, scoring and anti-fraud systems**, plus web & mobile apps end-to-end.
+I build **LMS, CRM & ERP systems for the edtech industry**, plus web & mobile apps end-to-end.
 
-- 🔭 Currently building **AgroScore AI** — merit-based scoring & anti-fraud for public subsidies (CatBoost · SHAP · Llama 3)
+- 🔭 Currently building **LMS / CRM / ERP platforms** for education
 - 🌱 Exploring **Solana / web3** and LLM-powered applications
 - 🌐 Founder @ [Hubtech](https://hubtech.kz/)
 - 🎮 Fun fact: I like Minecraft
 
-## 🇷🇺 Русский
+## 🇰🇿 Қазақша
 
-Разрабатываю **AI-решения для govtech, скоринга и антифрода**, а также веб- и мобильные приложения под ключ.
+Мен негізінен **edtech саласында LMS, CRM және ERP жүйелерін** құрастырамын, сонымен қатар веб және мобильді қосымшаларды толық циклмен жасаймын.
 
-- 🔭 Сейчас: **AgroScore AI** — merit-based скоринг и антифрод для госсубсидий (CatBoost · SHAP · Llama 3)
-- 🌱 Изучаю **Solana / web3** и приложения на базе LLM
-- 🌐 Основатель [Hubtech](https://hubtech.kz/)
-- 🎮 Факт: люблю Minecraft
+- 🔭 Қазір: білім беру үшін **LMS / CRM / ERP платформаларын** жасап жатырмын
+- 🌱 Зерттеп жүргенім: **Solana / web3** және LLM негізіндегі қосымшалар
+- 🌐 [Hubtech](https://hubtech.kz/) негізін қалаушы
+- 🎮 Қызық факт: Minecraft ұнайды
 
 ---
 
@@ -57,28 +58,6 @@ I build **AI-driven govtech, scoring and anti-fraud systems**, plus web & mobile
 
 ---
 
-### 🚀 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/godz1llla/AI-inDrive-govtech---2-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=godz1llla&repo=AI-inDrive-govtech---2-&hide_border=true&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/godz1llla/decentrathon_solana_day_2case___ules.kz">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=godz1llla&repo=decentrathon_solana_day_2case___ules.kz&hide_border=true&theme=tokyonight" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/godz1llla/terramind">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=godz1llla&repo=terramind&hide_border=true&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/godz1llla/prohlada-landing">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=godz1llla&repo=prohlada-landing&hide_border=true&theme=tokyonight" />
-  </a>
-</p>
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -88,10 +67,6 @@ I build **AI-driven govtech, scoring and anti-fraud systems**, plus web & mobile
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=godz1llla&hide_border=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=godz1llla&theme=tokyonight&no-frame=true&column=7&margin-w=8" />
 </p>
 
 <p align="center">
