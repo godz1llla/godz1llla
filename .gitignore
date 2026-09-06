@@ -1,0 +1,10 @@
+# macOS system files
+.DS_Store
+
+# Editor / tooling
+.claude/
+
+# Personal documents — keep out of the public profile repo
+*.pdf
+resume.md
+project-ideas.md
