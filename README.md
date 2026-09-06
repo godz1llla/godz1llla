@@ -3,16 +3,13 @@
   Then this README shows up at the top of your GitHub profile.
 -->
 
-### Hi, I'm Gubaidulla 👋
+### Hi, I'm Gubaidulla
 
-Full-Stack Developer from Kyzylorda, Kazakhstan 🇰🇿
+Full-Stack Developer from Kyzylorda, Kazakhstan.
 Building **LMS, CRM & ERP** systems for the **edtech** industry.
 
-🇰🇿 Edtech саласында LMS, CRM және ERP жүйелерін жасаймын.
-
-- 🌐 Founder [@Hubtech](https://hubtech.kz/)
-- 🌱 Exploring AI / LLM applications
-- 🎮 Fun fact: I like Minecraft
+- Founder [@Hubtech](https://hubtech.kz/)
+- Exploring AI / LLM applications
 
 ---
 
@@ -23,8 +20,8 @@ Building **LMS, CRM & ERP** systems for the **edtech** industry.
 <br>
 
 <p align="center">
-  <img height="140" src="https://github-readme-stats.vercel.app/api?username=godz1llla&show_icons=true&count_private=true&hide_border=true&hide_title=true&theme=transparent" />
-  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=godz1llla&layout=compact&hide_border=true&hide_title=true&theme=transparent" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=godz1llla&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=godz1llla&layout=compact&hide_border=true&theme=tokyonight" />
 </p>
 
 <p align="center">
