@@ -46,15 +46,6 @@
 
 <br>
 
-## GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=godz1llla&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=26D0CE&icon_color=26D0CE" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=godz1llla&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=26D0CE&langs_count=8" />
-</p>
-
-<br>
-
 ## Connect
 
 <p align="center">
